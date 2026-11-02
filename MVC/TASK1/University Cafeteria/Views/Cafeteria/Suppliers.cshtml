@@ -1,5 +1,71 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
+
+
 @{
+    Layout = "~/Views/Shared/_SimpleLayout.cshtml";
+    ViewData["Title"] = "Suppliers";
+
+    string[] suppliers = {
+        "Fresh Food Company",
+        "Happy Drinks Company",
+        "Daily Supplies Company"
+    };
 }
+
+<div class="container py-5">
+
+    <div class="mb-4">
+        <h1 class="fw-bold">Our Suppliers</h1>
+        <p class="text-muted">
+            Meet our trusted cafeteria partners.
+        </p>
+    </div>
+
+    <div class="row g-4">
+
+        @for (int i = 0; i < suppliers.Length; i++)
+        {
+            <div class="col-md-4">
+                <div class="card h-100 border-0 shadow-sm rounded-4">
+                    <div class="card-body p-4">
+
+                        <div class="mb-3">
+                            <span class="badge bg-warning text-dark">
+                                Supplier @(i + 1)
+                            </span>
+                        </div>
+
+                        <h5 class="card-title fw-bold">
+                            @suppliers[i]
+                        </h5>
+
+                        <p class="card-text text-muted">
+                            Cafeteria supplier
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+
+    <div class="mt-4">
+
+        @if (suppliers.Length >= 3)
+        {
+            <div class="alert alert-success rounded-3">
+                We have enough Suppliers.
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-warning rounded-3">
+                We need more Suppliers.
+            </div>
+        }
+
+    </div>
+</div>
+
+

@@ -1,0 +1,17 @@
+﻿body {
+    background-color: #f4f6f9;
+}
+
+h1 {
+    color: #234b72;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    text-align: center;
+}

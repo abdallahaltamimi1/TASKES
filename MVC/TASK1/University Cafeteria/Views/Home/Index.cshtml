@@ -6,3 +6,33 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+@{
+    var items = new List<(string Name, string Email, int Age)>
+{
+("Abdallah", "Abdallah@example.com", 30),
+("Ali",   "Ali@example.com",   25),
+("Mohammad", "Mohammad@example.com", 28),
+};
+}
+
+
+<table class="table table-striped table-hover">
+    <thead class="table-dark">
+        <tr>
+
+            <th>Name</th>
+            <th>Email</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in items)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Age</td>
+            </tr>
+        }
+    </tbody>
+</table> 

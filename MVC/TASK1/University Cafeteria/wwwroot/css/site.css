@@ -29,3 +29,84 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+/* Main layout */
+.cafeteria-layout {
+    background: #f8f9fc;
+    color: #263238;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+/* Navbar */
+.cafeteria-navbar {
+    background: #ffffff;
+    border-bottom: 1px solid #edf0f3;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.04);
+    padding: 16px 0;
+}
+
+.cafeteria-brand {
+    font-size: 23px;
+    font-weight: 800;
+    color: #202d3a;
+    letter-spacing: -0.7px;
+}
+
+    .cafeteria-brand:hover {
+        color: #202d3a;
+    }
+
+.brand-icon {
+    display: inline-block;
+    margin-right: 8px;
+    font-size: 25px;
+}
+
+.brand-accent {
+    color: #f97316;
+}
+
+.cafeteria-navbar .nav-link {
+    color: #526070;
+    font-weight: 600;
+    padding: 10px 16px !important;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+    .cafeteria-navbar .nav-link:hover,
+    .cafeteria-navbar .nav-link:focus {
+        color: #ea580c;
+        background: #fff0e5;
+    }
+
+/* Page content */
+.cafeteria-content {
+    flex: 1;
+    padding-top: 48px;
+    padding-bottom: 64px;
+}
+
+/* Footer */
+.cafeteria-footer {
+    background: #202d3a;
+    color: #cbd5e1;
+    padding: 24px 0;
+    font-size: 14px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .cafeteria-content {
+        padding-top: 28px;
+        padding-bottom: 40px;
+    }
+
+    .cafeteria-brand {
+        font-size: 20px;
+    }
+}

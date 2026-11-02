@@ -1,5 +1,73 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
 @{
+    Layout = null;
 }
+@{
+    var products = new[]
+            {
+    new {Number=1, Name = "Water", Supplier = "Fresh Food Company", Quantity = 100, Status = "Available" },
+    new {Number=2, Name = "Orange Juice", Supplier = "Happy Drinks Company", Quantity = 20, Status = "Low Stock" },
+    new {Number=3, Name = "Coffee", Supplier = "Daily Supplies Company", Quantity = 50, Status = "Available" },
+    new {Number=4, Name = "Sandwich", Supplier = "Fresh Food Company", Quantity = 0, Status = "Out of Stock" },
+    new {Number=5, Name = "Chocolate", Supplier = "Daily Supplies Company", Quantity = 30, Status = "Available" }
+};
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Products</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/products.css" />
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h1>Products List</h1>
+    </div>
+
+<table class="table table-bordered table-striped table-hover">
+  <thead>
+    <tr>
+    <th scope="col">Number</th>
+      <th scope="col">Product</th>
+      <th scope="col">Supplier</th>
+      <th scope="col">Quantity</th>
+      <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+  @foreach (var product in products)
+  {
+    <tr>
+    <td>@product.Number</td>
+      <td>@product.Name</td>
+      <td>@product.Supplier</td>
+      <td>@product.Quantity</td>
+      <td>@if (product.Status == "Available")
+        {
+          <span class="badge bg-success">@product.Status</span>
+        }
+        else if (product.Status == "Out of Stock")
+        {
+          <span class="badge bg-danger">@product.Status</span>
+        }
+        else if (product.Status == "Low Stock")
+        {
+          <span class="badge bg-warning">@product.Status</span>
+        }
+        else
+        {
+          <span class="badge bg-success">@product.Status</span>
+        }
+      </td>
+    </tr>
+  }
+   
+  </tbody>
+</table>
+</body>
+</html>
+

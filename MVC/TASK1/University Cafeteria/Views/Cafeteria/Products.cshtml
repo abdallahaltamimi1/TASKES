@@ -1,5 +1,33 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿
 @{
+string[] products = { "Water", "Orange Juice", "Coffee", "Sandwich", "Chocolate" };
+
+if(products.Length > 0)
+{
+    <p>We have the following products available:</p>
+}
+int productCount = products.Length;
+
+    <ul class="list-group">
+        @foreach (var product in products)
+        {
+            <li class="list-group-item">
+                @product
+            </li>
+        }
+    </ul>
+if (productCount >= 3)
+{
+    <p>We have enough Products.</p>
+}
+else
+{
+    <p>We need more Products</p>
+}
+}
+
+@section Scripts {
+    <script>
+        alert("Welcome to the Products Page!");
+    </script>
 }
