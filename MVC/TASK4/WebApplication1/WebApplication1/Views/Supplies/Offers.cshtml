@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h3>your selections:</h3>
+@foreach (var product in ViewBag.Products)
+{
+    <div class="offer-card">
+        <h3>@product.OfferName</h3>
+        <p>Supplier: @product.Supplier</p>
+        <p>Quantity: @product.Quantity</p>
+        <p>Unit Price: $@product.UnitPrice</p>
+    </div>
+}
+
+<h1>Total:</h1>
+<h1>@ViewBag.total</h1>
+

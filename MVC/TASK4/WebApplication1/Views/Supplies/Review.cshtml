@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Order Review</h2>
+
+@foreach (var item in ViewBag.Products)
+{
+    <div class="offer-card">
+        <h3>@item.OfferName</h3>
+
+        <p>Supplier: @item.Supplier</p>
+        <p>Quantity: @item.Quantity</p>
+        <p>Unit Price: @item.UnitPrice JD</p>
+        <p>Total Price: @(item.Quantity * item.UnitPrice) JD</p>
+    </div>
+}
+
+<hr />
+
+<h2>Order Summary</h2>
+
+<p>Total Price: @ViewBag.total JD</p>
+
+<p>Discount Percentage: @ViewBag.dicountpercentage%</p>
+
+<p>Discount Amount: @ViewBag.discount JD</p>
+
+<h3>Final Total: @ViewBag.finaltotal JD</h3>

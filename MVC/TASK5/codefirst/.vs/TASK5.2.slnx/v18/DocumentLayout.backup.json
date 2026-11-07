@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\data\\migrations\\20261106221000_addcafeteriatables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\data\\migrations\\20261106221000_addcafeteriatables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\data\\migrations\\20261106222220_fixcascadedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\data\\migrations\\20261106222220_fixcascadedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\data\\migrations\\20261106221759_fixmodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\data\\migrations\\20261106221759_fixmodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\models\\purchaseorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\models\\purchaseorderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\models\\purchaseorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\models\\purchaseorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task5.2\\task5.2\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF46D965-3EDF-EB6D-0876-70D7C06FEE1A}|TASK5.2\\TASK5.2.csproj|solutionrelative:task5.2\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261106221759_FixModelChanges.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\Migrations\\20261106221759_FixModelChanges.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Data\\Migrations\\20261106221759_FixModelChanges.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\Migrations\\20261106221759_FixModelChanges.cs",
+              "RelativeToolTip": "TASK5.2\\Data\\Migrations\\20261106221759_FixModelChanges.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:17:59.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261106221000_AddCafeteriaTables.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\Migrations\\20261106221000_AddCafeteriaTables.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Data\\Migrations\\20261106221000_AddCafeteriaTables.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\Migrations\\20261106221000_AddCafeteriaTables.cs",
+              "RelativeToolTip": "TASK5.2\\Data\\Migrations\\20261106221000_AddCafeteriaTables.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAYwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:10:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TASK5.2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:02:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\appsettings.json",
+              "RelativeDocumentMoniker": "TASK5.2\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\appsettings.json",
+              "RelativeToolTip": "TASK5.2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T21:57:52.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20261106222220_FixCascadeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\Migrations\\20261106222220_FixCascadeDelete.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Data\\Migrations\\20261106222220_FixCascadeDelete.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Data\\Migrations\\20261106222220_FixCascadeDelete.cs",
+              "RelativeToolTip": "TASK5.2\\Data\\Migrations\\20261106222220_FixCascadeDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:22:20.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseOrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\PurchaseOrderItems.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Models\\PurchaseOrderItems.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\PurchaseOrderItems.cs",
+              "RelativeToolTip": "TASK5.2\\Models\\PurchaseOrderItems.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:40:42.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\Products.cs",
+              "RelativeToolTip": "TASK5.2\\Models\\Products.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAzwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:40:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseOrders.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\PurchaseOrders.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Models\\PurchaseOrders.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\PurchaseOrders.cs",
+              "RelativeToolTip": "TASK5.2\\Models\\PurchaseOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:40:19.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\Suppliers.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Models\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\Suppliers.cs",
+              "RelativeToolTip": "TASK5.2\\Models\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:39:57.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "TASK5.2\\Models\\Categories.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK5.2\\TASK5.2\\Models\\Categories.cs",
+              "RelativeToolTip": "TASK5.2\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T21:39:44.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

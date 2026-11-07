@@ -1,0 +1,312 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewData["Title"] = "Graduation Supplies";
+}
+
+<style>
+    .supplies-page {
+        max-width: 1000px;
+        margin: 30px auto;
+        font-family: Arial, sans-serif;
+    }
+
+        .supplies-page h2 {
+            margin-bottom: 20px;
+        }
+
+    .category-select {
+        padding: 10px;
+        width: 100%;
+        max-width: 350px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .supplies-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+
+        .supplies-table th,
+        .supplies-table td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+
+        .supplies-table th {
+            background-color: #f2f2f2;
+        }
+
+        .supplies-table tbody tr:hover {
+            background-color: #f9f9f9;
+        }
+
+        .supplies-table input[type="radio"] {
+            margin-right: 8px;
+            cursor: pointer;
+        }
+
+    .submit-btn {
+        background-color: #047857;
+        color: white;
+        padding: 12px 24px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        .submit-btn:hover {
+            background-color: #065f46;
+        }
+</style>
+
+<div class="supplies-page">
+
+    <h2>Graduation Ceremony Supplies</h2>
+
+    <form asp-controller="Supplies"
+          asp-action="Offers"
+          method="post">
+
+        <label for="categorySelect">
+            <strong>Select Category:</strong>
+        </label>
+
+        <br /><br />
+
+        <select id="categorySelect"
+                class="category-select">
+
+            <option value="certificates">
+                Graduation Certificates
+            </option>
+
+            <option value="hospitality">
+                Hospitality
+            </option>
+
+            <option value="gifts">
+                Graduation Gifts
+            </option>
+
+        </select>
+
+        <table class="supplies-table">
+
+            <thead>
+                <tr>
+                    <th>Supplier</th>
+                    <th>Offer Name</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                </tr>
+            </thead>
+
+            <!-- Category 1: Graduation Certificates -->
+
+            <tbody id="certificates">
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="certificateOffer"
+                                   value="A" />
+                            Supplier A
+                        </label>
+                    </td>
+                    <td>Premium Certificate Package</td>
+                    <td>35</td>
+                    <td>2 JD</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="certificateOffer"
+                                   value="B" />
+                            Supplier B
+                        </label>
+                    </td>
+                    <td>Standard Certificate Package</td>
+                    <td>35</td>
+                    <td>1.5 JD</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="certificateOffer"
+                                   value="C" />
+                            Supplier C
+                        </label>
+                    </td>
+                    <td>Luxury Certificate Package</td>
+                    <td>35</td>
+                    <td>2.5 JD</td>
+                </tr>
+
+            </tbody>
+
+            <!-- Category 2: Hospitality -->
+
+            <tbody id="hospitality" style="display:none;">
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="hospitalityOffer"
+                                   value="D" />
+                            Supplier D
+                        </label>
+                    </td>
+                    <td>Coffee &amp; Drinks Package</td>
+                    <td>100</td>
+                    <td>2 JD</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="hospitalityOffer"
+                                   value="E" />
+                            Supplier E
+                        </label>
+                    </td>
+                    <td>Sandwiches &amp; Snacks Package</td>
+                    <td>100</td>
+                    <td>3 JD</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="hospitalityOffer"
+                                   value="F" />
+                            Supplier F
+                        </label>
+                    </td>
+                    <td>Full Hospitality Package</td>
+                    <td>100</td>
+                    <td>4 JD</td>
+                </tr>
+
+            </tbody>
+
+            <!-- Category 3: Graduation Gifts -->
+
+            <tbody id="gifts" style="display:none;">
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="giftOffer"
+                                   value="G" />
+                            Supplier G
+                        </label>
+                    </td>
+                    <td>Customized Mugs Package</td>
+                    <td>35</td>
+                    <td>2 JD</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="giftOffer"
+                                   value="H" />
+                            Supplier H
+                        </label>
+                    </td>
+                    <td>Graduation Bags Package</td>
+                    <td>35</td>
+                    <td>3 JD</td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <label>
+                            <input type="radio"
+                                   name="giftOffer"
+                                   value="I" />
+                            Supplier I
+                        </label>
+                    </td>
+                    <td>Premium Gift Boxes Package</td>
+                    <td>35</td>
+                    <td>4 JD</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        <button type="submit" class="submit-btn">
+            Review Offers
+        </button>
+
+    </form>
+
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById("categorySelect")
+            .addEventListener("change", function () {
+
+                var selectedCategory = this.value;
+
+                document.getElementById("certificates")
+                    .style.display = "none";
+
+                document.getElementById("hospitality")
+                    .style.display = "none";
+
+                document.getElementById("gifts")
+                    .style.display = "none";
+
+                document.getElementById(selectedCategory)
+                    .style.display = "table-row-group";
+
+            });
+
+        document.querySelector("form")
+            .addEventListener("submit", function (event) {
+
+                var certificate = document.querySelector(
+                    'input[name="certificateOffer"]:checked'
+                );
+
+                var hospitality = document.querySelector(
+                    'input[name="hospitalityOffer"]:checked'
+                );
+
+                var gift = document.querySelector(
+                    'input[name="giftOffer"]:checked'
+                );
+
+                if (!certificate || !hospitality || !gift) {
+                    event.preventDefault();
+
+                    alert(
+                        "Please select one offer from each category."
+                    );
+                }
+            });
+    </script>
+}

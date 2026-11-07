@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Data\\Migrations\\20261107172031_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Data\\Migrations\\20261107172031_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\controllers\\suppliescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\suppliescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\views\\supplies\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\supplies\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\views\\supplies\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\supplies\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\views\\supplies\\offers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\supplies\\offers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\taskes\\mvc\\task4\\webapplication1\\webapplication1\\views\\supplies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EADE5DF1-F217-485B-B2B9-F6A5B9DEA2E1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\supplies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261107172031_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Data\\Migrations\\20261107172031_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20261107172031_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Data\\Migrations\\20261107172031_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20261107172031_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:20:31.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\appsettings.json*",
+              "RelativeToolTip": "WebApplication1\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-07T17:05:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:01:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Supplies\\About.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Supplies\\About.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T16:42:51.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\Review.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Supplies\\Review.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\Review.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Supplies\\Review.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T15:26:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T15:12:28.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Models\\product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Models\\product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:32:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuppliesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Controllers\\SuppliesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SuppliesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Controllers\\SuppliesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SuppliesController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAqwKMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T10:20:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Offers.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\Offers.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Supplies\\Offers.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\Offers.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Supplies\\Offers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T13:35:35.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T10:59:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Supplies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASKES\\MVC\\TASK4\\WebApplication1\\WebApplication1\\Views\\Supplies\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Supplies\\Index.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAANgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-07T10:27:14.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
