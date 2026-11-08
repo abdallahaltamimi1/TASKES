@@ -1,0 +1,33 @@
+﻿
+@model List<Category>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.Id</td>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                </tr>
+            }
+        }
+        else
+        {
+                <tr>
+                    <td colspan="3">No categories found.</td>
+                </tr>
+            }           
+        
+    </tbody>
+</table>

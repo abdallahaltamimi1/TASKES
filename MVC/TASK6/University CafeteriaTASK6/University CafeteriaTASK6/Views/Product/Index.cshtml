@@ -1,0 +1,37 @@
+﻿@model List<Product>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+
+
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Quantity</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No Product found.</td>
+            </tr>
+        }
+
+    </tbody>
+</table>
