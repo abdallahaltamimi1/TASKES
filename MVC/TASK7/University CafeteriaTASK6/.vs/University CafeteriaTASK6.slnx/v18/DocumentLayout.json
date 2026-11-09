@@ -1,0 +1,613 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\supplier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\supplier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\supplier\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\migrations\\20261108181958_addsupplierandrelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\migrations\\20261108181958_addsupplierandrelationships.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\migrations\\20261108175705_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\migrations\\20261108175705_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\migrations\\20261108172306_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\migrations\\20261108172306_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\migrations\\20261109200214_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\migrations\\20261109200214_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\migrations\\20261109193453_addall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\migrations\\20261109193453_addall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|c:\\users\\user\\desktop\\task7\\university cafeteriatask6\\university cafeteriatask6\\data\\migrations\\20261109180845_addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6064B668-D236-E957-1BC1-92C911186B43}|University CafeteriaTASK6\\University CafeteriaTASK6.csproj|solutionrelative:university cafeteriatask6\\data\\migrations\\20261109180845_addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:27:32.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T19:47:46.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:31:23.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T18:49:55.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T19:15:15.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T18:32:44.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwEYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:31:40.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Supplier.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:41:22.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T17:46:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20261109200214_UpdateModels.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261109200214_UpdateModels.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\Migrations\\20261109200214_UpdateModels.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261109200214_UpdateModels.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\Migrations\\20261109200214_UpdateModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:02:14.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Edit.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Supplier\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Edit.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Supplier\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T19:43:47.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Create.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Supplier\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Create.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Supplier\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T18:11:10.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:27:18.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Details.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Supplier\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Details.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Supplier\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T19:40:35.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T18:04:53.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Order.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Models\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:06:59.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T17:41:18.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T16:35:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T18:27:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T17:58:26.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T19:44:45.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Product.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:39:53.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T19:14:22.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20261109193453_Addall.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261109193453_Addall.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\Migrations\\20261109193453_Addall.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261109193453_Addall.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\Migrations\\20261109193453_Addall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T19:34:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T11:41:48.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T11:50:59.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Category.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T11:42:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T17:37:41.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Models\\Employee.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:07:08.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T17:55:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T18:26:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "University CafeteriaTASK6\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-08T16:40:05.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20261109180845_AddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261109180845_AddEmployee.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\Migrations\\20261109180845_AddEmployee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261109180845_AddEmployee.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\Migrations\\20261109180845_AddEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:08:45.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\appsettings.json",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\appsettings.json",
+              "RelativeToolTip": "University CafeteriaTASK6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-08T17:10:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20261108181958_AddsupplierandRelationships.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261108181958_AddsupplierandRelationships.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\Migrations\\20261108181958_AddsupplierandRelationships.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261108181958_AddsupplierandRelationships.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\Migrations\\20261108181958_AddsupplierandRelationships.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:19:58.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20261108175705_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261108175705_AddProduct.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\Migrations\\20261108175705_AddProduct.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261108175705_AddProduct.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\Migrations\\20261108175705_AddProduct.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:57:05.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20261108172306_AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261108172306_AddCategory.cs",
+              "RelativeDocumentMoniker": "University CafeteriaTASK6\\Data\\Migrations\\20261108172306_AddCategory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TASK7\\University CafeteriaTASK6\\University CafeteriaTASK6\\Data\\Migrations\\20261108172306_AddCategory.cs",
+              "RelativeToolTip": "University CafeteriaTASK6\\Data\\Migrations\\20261108172306_AddCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T17:23:06.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

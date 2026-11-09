@@ -1,0 +1,53 @@
+﻿@model List<Product>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+
+
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">Category</th>
+            <th scope="col">SupplierId</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Quantity</td>
+                    <td>@product.CategoryId</td>
+                    <td>@product.SupplierId</td>
+                    <td><a href="@Url.Action("Details", "Product", new { id = product.Id })">View Details</a></td>
+                    <td><a href="@Url.Action("Edit", "Product", new { id = product.Id })">Edit</a></td>
+                    <td><a href="@Url.Action("Delete", "Product", new { id = product.Id })">Delete</a></td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No Product found.</td>
+            </tr>
+        }
+        <
+            <tr>
+                <td>
+                    <form action="@Url.Action("DeleteAll", "Product")" method="post">
+                        <button type="submit">Delete All</button>
+                    </form>
+                </td>
+            </tr>
+
+    </tbody>
+</table>
+    <h1>Number Of Product : @ViewBag.ProductsCount</h1>

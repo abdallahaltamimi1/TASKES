@@ -1,0 +1,49 @@
+﻿@model List<Order>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Customer Name</th>
+            <th scope="col">Order Date</th>
+            <th scope="col">Status</th>
+            <th scope="col">TotalPrice </th>
+            <th scope="col"> Employee Name </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.Id</td>
+                    <td>@order.CustomerName</td>
+                    <td>@order.Status</td>
+                    <td>@order.OrderDate</td>
+                    <td>@order.TotalPrice</td>
+                    <td>@order.EmployeeId</td>
+                    <td><a href="@Url.Action("Details", "Order", new { id = order.Id })">View Details</a></td>
+                    <td><a href="@Url.Action("Edit", "Order", new { id = order.Id })">Edit</a></td>
+                    <td><a href="@Url.Action("Delete", "Order", new { id = order.Id })">Delete</a></td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No orders found.</td>
+            </tr>
+        }
+    </tbody>
+    <tr>
+        <td>
+            <form action="@Url.Action("DeleteAll", "Order")" method="post">
+                <button type="submit">Delete All</button>
+            </form>
+        </td>
+    </tr>
+    </table>
+<h1>Number Of Orders : @ViewBag.OrdersCount</h1>

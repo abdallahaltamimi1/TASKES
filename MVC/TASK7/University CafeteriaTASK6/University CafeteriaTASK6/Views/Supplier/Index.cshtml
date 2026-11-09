@@ -1,0 +1,45 @@
+﻿@model List<Supplier>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Email</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var supplier in Model)
+            {
+                <tr>
+                    <td>@supplier.Id</td>
+                    <td>@supplier.Name</td>
+                    <td>@supplier.Phone</td>
+                    <td>@supplier.Email</td>
+                    <td><a href="@Url.Action("Details", "Supplier", new { id = supplier.Id })">View Details</a></td>
+                    <td><a href="@Url.Action("Edit", "Supplier", new { id = supplier.Id })">Edit</a></td>
+                    <td><a href="@Url.Action("Delete", "Supplier", new { id = supplier.Id })">Delete</a></td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7">No supplier found.</td>
+            </tr>
+        }
+        <tr>
+            <td>
+                <form action="@Url.Action("DeleteAll", "Supplier")" method="post">
+                    <button type="submit">Delete All</button>
+                </form>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+<h1>Number Of Supplier : @ViewBag.SupplierCount</h1>
