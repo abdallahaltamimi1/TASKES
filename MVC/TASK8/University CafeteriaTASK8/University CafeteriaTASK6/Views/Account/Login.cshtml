@@ -1,0 +1,17 @@
+﻿@model Login
+
+<form asp-controller="Login" asp-action="Login" method="post">
+   
+    <label>Email</label>
+    <input name="Email" type="Email">
+    <br />
+
+    <label>Password</label>
+    <input name="Password" type="Password">
+    <br />
+    <label>Remeber Me</label>
+    <input name="RememberMe" type="checkbox">
+    <br />
+    <button type="submit">Sign Up</button>
+</form>
+<div asp-validation-summary="All" class="text-danger"></div>

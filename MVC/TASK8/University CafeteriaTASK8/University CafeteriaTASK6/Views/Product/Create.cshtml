@@ -1,0 +1,27 @@
+﻿<form method="post" asp-action="Create">
+    <label> Product Name:</label>
+    <input type="text" name="Name" />
+    <label> Product Price:</label>
+    <input type="number" name="Price" step="0.01" />
+    <label> Product Quantity:</label>
+    <input type="number" name="Quantity" />
+    <select name="CategoryId">
+        <option value="">Select a Category</option>
+        @foreach (var category in ViewBag.Categories)
+        {
+            <option value="@category.Id">@category.Name</option>
+        }
+    </select>
+
+    <select name="SupplierId">
+        <option value="">Select a Supplier</option>
+        @foreach (var supplier in ViewBag.Suppliers)
+        {
+            <option value="@supplier.Id">@supplier.Name</option>
+        }
+    </select>
+
+
+
+    <button type="submit">Create</button>
+</form>
