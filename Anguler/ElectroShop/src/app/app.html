@@ -1,0 +1,83 @@
+<h1>{{storeName }}</h1>
+<h1>{{storeDescription}}</h1>
+<h1>{{storeDescription}}</h1>
+<h1>{{totalProducts}}</h1>
+<h1>{{isStoreOpen }}</h1>
+<h1>{{currency }}</h1>
+
+@for (product of featuredProduct; track $index) {
+  <h2>{{ product.name }}</h2>
+  <p>{{ product.price }}</p>
+  <p>{{ product.description}}</p>
+}
+<h1>{{Finalprice}}</h1>
+
+<div class="container">
+
+  <header>
+    <h1>{{ storeName }}</h1>
+    <p>{{ storeDescription }}</p>
+  </header>
+
+  <main>
+
+    <p class="store-status">{{ message }}</p>
+
+    <!-- Featured Product -->
+    <h3>Featured Product</h3>
+
+    <div class="featured-product">
+      <h4>{{ featuredProduct[0].name }}</h4>
+
+      <p>{{ featuredProduct[0].description }}</p>
+
+      <del>${{ featuredProduct[0].price }}</del>
+
+      <span class="price">${{ Finalprice }}</span>
+
+      <span class="discount">
+        {{ discountPercentage }}% Discount
+      </span>
+    </div>
+
+    <!-- Our Products -->
+    <h3>Our Products</h3>
+
+    <table>
+      <tr>
+        <th>{{ featuredProduct[1].name }}</th>
+        <th>{{ featuredProduct[2].name }}</th>
+        <th>{{ featuredProduct[3].name }}</th>
+        <th>{{ featuredProduct[4].name }}</th>
+      </tr>
+
+      <tr class="price">
+        <td>${{ featuredProduct[1].price }}</td>
+        <td>${{ featuredProduct[2].price }}</td>
+        <td>${{ featuredProduct[3].price }}</td>
+        <td>${{ featuredProduct[4].price }}</td>
+      </tr>
+    </table>
+
+    <!-- Store Summary -->
+    <h3>Store Summary</h3>
+
+    <table class="summary">
+      <tr class="price">
+        <th>{{ totalNumberOfProducts }}</th>
+        <th>${{ mostExpensiveProductPrice }}</th>
+        <th>${{ cheapestProductPrice }}</th>
+        <th>${{ totalValue }}</th>
+      </tr>
+
+      <tr>
+        <td>Total Products</td>
+        <td>Highest Price</td>
+        <td>Lowest Price</td>
+        <td>Total Products Value</td>
+      </tr>
+    </table>
+
+  </main>
+
+</div>
