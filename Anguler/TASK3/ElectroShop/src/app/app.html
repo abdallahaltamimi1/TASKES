@@ -1,0 +1,16 @@
+<app-product-details-component
+  [productName]="productName()"
+  [productDescription]="productDescription()"
+  [productPrice]="productPrice()"
+  [productAvailability]="productAvailability()"
+  (selectedproduct)="RecieveProduct($event)"
+  (selectedquantity)="RecieveQuantity($event)">
+</app-product-details-component>
+<app-shopping-cart-component
+  [cartProduct]="recieveProduct"
+  [cartQuantity]="recieveQuantity"
+  [cartPrice]="productPrice()">
+</app-shopping-cart-component>
+<button (click)="ChangeProduct()">
+  Change Product
+</button>

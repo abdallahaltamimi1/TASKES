@@ -1,0 +1,21 @@
+<h2>{{ productName }}</h2>
+
+<p>{{ productDescription }}</p>
+
+<p>Price: {{ productPrice }}</p>
+
+@if (productAvailability) {
+  <p>Available</p>
+} @else {
+  <p>Not Available</p>
+}
+
+<p>Quantity: {{ Quantity() }}</p>
+
+<p>{{ message }}</p>
+
+<button (click)="AddQuantity()">+</button>
+
+<button (click)="SubQuantity()">-</button>
+
+<button (click)="AddCart()">Add to Cart</button>
